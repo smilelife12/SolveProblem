@@ -9,7 +9,7 @@ public class SW1868 {
     public static int count,N;
     public static LinkedList<int[]> zero;
     public static void main(String args[]) throws Exception {
-        System.setIn(new FileInputStream("./src/input1868.txt"));
+        System.setIn(new FileInputStream("./src/input_1868.txt"));
 
         Scanner sc = new Scanner(System.in);
         int T;

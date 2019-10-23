@@ -54,7 +54,7 @@ public class SW1248 {
     public static int V, E, A, B;
     public static int []have;
     public static void main(String args[]) throws Exception {
-        System.setIn(new FileInputStream("./src/SW1248.txt"));
+        System.setIn(new FileInputStream("./src/input_1248.txt"));
 
         Scanner sc = new Scanner(System.in);
         int T;

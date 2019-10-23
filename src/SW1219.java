@@ -6,7 +6,7 @@ public class SW1219 {
     public static int[][] vertix;
     public static int [] vis;
     public static void main(String args[]) throws Exception {
-        System.setIn(new FileInputStream("./src/input1219.txt"));
+        System.setIn(new FileInputStream("./src/input_1219.txt"));
 
         Scanner sc = new Scanner(System.in);
         int T;
